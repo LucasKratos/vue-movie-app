@@ -25,3 +25,5 @@ git clone https://github.com/andikaPs/vue-movie.git
 - <code>cd vue-movie</code>
 - <code>yarn</code>
 - <code>yarn dev</code>
+
+Code by Lucas Spagnoli
